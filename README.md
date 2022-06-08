@@ -14,7 +14,5 @@
 |3021104388 | GABRIEL ANGELO LIBERATO DE STEFANO |  TADS |    3A    |
 |3021104242 | NICOLY SOUZA AVILES                |  TADS |    3A    |
 
-
-
-
+## Descrição do Projeto
 Projeto de modelagem de sistemas de software. Criação de um site web.
