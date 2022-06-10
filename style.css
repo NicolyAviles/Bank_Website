@@ -1,0 +1,25 @@
+*{
+  margin: 0 auto;
+  padding: 0; 
+  box-sizing: border-box;
+}
+
+#menu-horizontal{
+  list-style: none;
+  padding: 0;
+  background-color: #ff0000;
+}
+
+#menu-horizontal li{
+  display: inline;
+}
+#menu-horizontal li a{
+  color: #f7f7f7;
+  padding: 20px;
+  display: inline-block;
+  text-decoration: none;
+}
+
+#menu-horizontal li a:hover {
+  background-color: #2e86bd
+}
